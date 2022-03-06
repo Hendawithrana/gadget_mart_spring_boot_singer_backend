@@ -1,8 +1,8 @@
 package com.edu.gadgetMaster.exception;
 
 /**
- * @author Uvindu
- * @since 07/2019
+ * @author Ramesh Dilshan
+ * @since 03/2022
  **/
 public class MyFileNotFoundException extends RuntimeException {
     public MyFileNotFoundException(String message) {
